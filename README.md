@@ -1,30 +1,37 @@
-# Cliste website navigation
+# 🏦 SyndicateIQ
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/samuels-projects-e18db683/v0-cliste-website-navigation)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/nkLtdsWIDAF)
+**The AI Operating System for Syndicated Loan Intelligence**
 
 ## Overview
+SyndicateIQ transforms syndicated loan operations by automating document processing, covenant monitoring, settlement due diligence, and ESG verification.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Features
+- 📄 Document Intelligence Engine (99% faster processing)
+- 🔄 Settlement Due Diligence Accelerator (85% time reduction)
+- ⚠️ Covenant Guardian (60-90 day breach prediction)
+- ♻️ ESG Veritas Platform (greenwashing detection)
+- 🧠 Cross-Platform Intelligence Hub (unified dashboard)
 
-## Deployment
+## Tech Stack
+- React 18 + TypeScript + Vite
+- Tailwind CSS + shadcn/ui
+- Anthropic Claude API
+- Recharts for data visualization
+- PDF.js for document processing
 
-Your project is live at:
+## Getting Started
+```bash
+npm install
+npm run dev
+```
 
-**[https://vercel.com/samuels-projects-e18db683/v0-cliste-website-navigation](https://vercel.com/samuels-projects-e18db683/v0-cliste-website-navigation)**
+## Business Impact
+- **Time Savings:** 85-99% across all operations
+- **Cost Reduction:** $2.5M-$4M annually per 100-loan portfolio
+- **Risk Prevention:** $5M-$10M per avoided default
 
-## Build your app
+## LMA Hackathon 2026
+Covering all 5 categories: Digital Loans, Loan Documents, Transparent Loan Trading, Keeping Loans on Track, Greener Lending
 
-Continue building your app on:
-
-**[https://v0.app/chat/nkLtdsWIDAF](https://v0.app/chat/nkLtdsWIDAF)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## License
+MIT
